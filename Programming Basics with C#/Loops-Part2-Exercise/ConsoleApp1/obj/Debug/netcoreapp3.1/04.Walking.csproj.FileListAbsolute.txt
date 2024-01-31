@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\04.Walking.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\04.Walking.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\04.Walking.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\04.Walking.genruntimeconfig.cache

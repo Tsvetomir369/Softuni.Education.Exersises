@@ -1,0 +1,12 @@
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.exe
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.genruntimeconfig.cache

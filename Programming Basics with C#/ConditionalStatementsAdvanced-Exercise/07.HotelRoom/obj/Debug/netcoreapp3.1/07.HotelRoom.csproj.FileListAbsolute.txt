@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.genruntimeconfig.cache

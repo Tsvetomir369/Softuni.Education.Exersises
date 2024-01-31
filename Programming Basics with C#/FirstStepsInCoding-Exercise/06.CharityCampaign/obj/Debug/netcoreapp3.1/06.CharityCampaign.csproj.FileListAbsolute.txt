@@ -1,0 +1,13 @@
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\bin\Debug\netcoreapp3.1\06.CharityCampaign.exe
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\bin\Debug\netcoreapp3.1\06.CharityCampaign.deps.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\bin\Debug\netcoreapp3.1\06.CharityCampaign.runtimeconfig.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\bin\Debug\netcoreapp3.1\06.CharityCampaign.runtimeconfig.dev.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\bin\Debug\netcoreapp3.1\06.CharityCampaign.dll
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\bin\Debug\netcoreapp3.1\06.CharityCampaign.pdb
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.csprojAssemblyReference.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.AssemblyInfo.cs
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.dll
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.pdb
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\06.CharityCampaign\obj\Debug\netcoreapp3.1\06.CharityCampaign.genruntimeconfig.cache

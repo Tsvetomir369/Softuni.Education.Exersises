@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.exe
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.genruntimeconfig.cache

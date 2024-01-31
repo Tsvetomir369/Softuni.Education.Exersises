@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.genruntimeconfig.cache

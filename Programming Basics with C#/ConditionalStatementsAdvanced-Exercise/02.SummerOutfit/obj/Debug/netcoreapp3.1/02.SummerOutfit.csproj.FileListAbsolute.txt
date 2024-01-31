@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.genruntimeconfig.cache

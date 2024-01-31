@@ -1,0 +1,12 @@
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\bin\Debug\netcoreapp3.1\02.Expression.exe
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\bin\Debug\netcoreapp3.1\02.Expression.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\bin\Debug\netcoreapp3.1\02.Expression.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\bin\Debug\netcoreapp3.1\02.Expression.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\bin\Debug\netcoreapp3.1\02.Expression.dll
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\bin\Debug\netcoreapp3.1\02.Expression.pdb
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\obj\Debug\netcoreapp3.1\02.Expression.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\obj\Debug\netcoreapp3.1\02.Expression.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\obj\Debug\netcoreapp3.1\02.Expression.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\obj\Debug\netcoreapp3.1\02.Expression.dll
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\obj\Debug\netcoreapp3.1\02.Expression.pdb
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\02.Expression\obj\Debug\netcoreapp3.1\02.Expression.genruntimeconfig.cache

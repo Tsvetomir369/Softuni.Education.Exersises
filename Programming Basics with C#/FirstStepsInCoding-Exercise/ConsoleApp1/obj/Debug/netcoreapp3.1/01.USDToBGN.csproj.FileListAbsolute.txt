@@ -1,0 +1,12 @@
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.USDToBGN.exe
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.USDToBGN.deps.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.USDToBGN.runtimeconfig.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.USDToBGN.runtimeconfig.dev.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.USDToBGN.dll
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.USDToBGN.pdb
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.USDToBGN.AssemblyInfoInputs.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.USDToBGN.AssemblyInfo.cs
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.USDToBGN.dll
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.USDToBGN.pdb
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.USDToBGN.genruntimeconfig.cache

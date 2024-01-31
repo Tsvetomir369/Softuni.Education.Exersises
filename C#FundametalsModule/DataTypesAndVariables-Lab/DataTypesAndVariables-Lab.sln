@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{57457C20-F6FC-4CD7-A072-87F4917DCBE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{12D6EA26-EADD-4B99-BD36-965E6FF61243}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExactSumOfRealNumbers", "03.ExactSumOfRealNumbers\03.ExactSumOfRealNumbers.csproj", "{1CF6C146-99B4-4350-8AE6-7A708A3F8748}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CenturiesToMinutes", "04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{4B8E49E5-F12A-476F-8ED9-8F199B8BDEFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SpecialNumbers", "05.SpecialNumbers\05.SpecialNumbers.csproj", "{55DAF591-4550-4AB2-998B-4639BF3C3950}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReversedChars", "06.ReversedChars\06.ReversedChars.csproj", "{813FEDF5-FFF2-4E64-8680-B9A88C59862E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.ConcatNames", "07.ConcatNames\07.ConcatNames.csproj", "{A307605B-7ABB-477D-BF1C-A7A1E32514D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TownInfo", "08.TownInfo\08.TownInfo.csproj", "{129D1234-6EB8-48FD-B084-B2CB891D03E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.CharsToString", "09.CharsToString\09.CharsToString.csproj", "{25EBAFD4-B003-4873-934F-1EC568396D25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.LowerOrUpper", "10.LowerOrUpper\10.LowerOrUpper.csproj", "{FC9AAC50-E14E-4B74-91C1-4916339A522C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.RefactorVolumeOfPyramid", "11.RefactorVolumeOfPyramid\11.RefactorVolumeOfPyramid.csproj", "{2AF42ED8-9634-4C76-B0A7-78785416DD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.RefactorSpecialNumbers", "12.RefactorSpecialNumbers\12.RefactorSpecialNumbers.csproj", "{8F226F60-8E07-4593-9B47-1B2FD2621977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57457C20-F6FC-4CD7-A072-87F4917DCBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57457C20-F6FC-4CD7-A072-87F4917DCBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57457C20-F6FC-4CD7-A072-87F4917DCBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57457C20-F6FC-4CD7-A072-87F4917DCBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D6EA26-EADD-4B99-BD36-965E6FF61243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D6EA26-EADD-4B99-BD36-965E6FF61243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D6EA26-EADD-4B99-BD36-965E6FF61243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D6EA26-EADD-4B99-BD36-965E6FF61243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF6C146-99B4-4350-8AE6-7A708A3F8748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF6C146-99B4-4350-8AE6-7A708A3F8748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF6C146-99B4-4350-8AE6-7A708A3F8748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF6C146-99B4-4350-8AE6-7A708A3F8748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8E49E5-F12A-476F-8ED9-8F199B8BDEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8E49E5-F12A-476F-8ED9-8F199B8BDEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8E49E5-F12A-476F-8ED9-8F199B8BDEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8E49E5-F12A-476F-8ED9-8F199B8BDEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DAF591-4550-4AB2-998B-4639BF3C3950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DAF591-4550-4AB2-998B-4639BF3C3950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DAF591-4550-4AB2-998B-4639BF3C3950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DAF591-4550-4AB2-998B-4639BF3C3950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813FEDF5-FFF2-4E64-8680-B9A88C59862E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813FEDF5-FFF2-4E64-8680-B9A88C59862E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813FEDF5-FFF2-4E64-8680-B9A88C59862E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813FEDF5-FFF2-4E64-8680-B9A88C59862E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A307605B-7ABB-477D-BF1C-A7A1E32514D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A307605B-7ABB-477D-BF1C-A7A1E32514D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A307605B-7ABB-477D-BF1C-A7A1E32514D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A307605B-7ABB-477D-BF1C-A7A1E32514D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129D1234-6EB8-48FD-B084-B2CB891D03E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129D1234-6EB8-48FD-B084-B2CB891D03E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129D1234-6EB8-48FD-B084-B2CB891D03E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129D1234-6EB8-48FD-B084-B2CB891D03E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EBAFD4-B003-4873-934F-1EC568396D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EBAFD4-B003-4873-934F-1EC568396D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EBAFD4-B003-4873-934F-1EC568396D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EBAFD4-B003-4873-934F-1EC568396D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9AAC50-E14E-4B74-91C1-4916339A522C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9AAC50-E14E-4B74-91C1-4916339A522C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9AAC50-E14E-4B74-91C1-4916339A522C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9AAC50-E14E-4B74-91C1-4916339A522C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF42ED8-9634-4C76-B0A7-78785416DD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF42ED8-9634-4C76-B0A7-78785416DD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF42ED8-9634-4C76-B0A7-78785416DD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF42ED8-9634-4C76-B0A7-78785416DD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F226F60-8E07-4593-9B47-1B2FD2621977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F226F60-8E07-4593-9B47-1B2FD2621977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F226F60-8E07-4593-9B47-1B2FD2621977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F226F60-8E07-4593-9B47-1B2FD2621977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95184B2-0428-40A5-A713-8B6684DA9071}
+	EndGlobalSection
+EndGlobal

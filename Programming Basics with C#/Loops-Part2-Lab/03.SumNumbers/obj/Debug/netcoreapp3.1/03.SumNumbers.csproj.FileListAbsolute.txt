@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.genruntimeconfig.cache

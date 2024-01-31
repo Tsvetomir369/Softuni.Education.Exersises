@@ -1,0 +1,12 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\bin\Debug\netcoreapp3.1\04.Number100-200.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\bin\Debug\netcoreapp3.1\04.Number100-200.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\bin\Debug\netcoreapp3.1\04.Number100-200.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\bin\Debug\netcoreapp3.1\04.Number100-200.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\bin\Debug\netcoreapp3.1\04.Number100-200.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\bin\Debug\netcoreapp3.1\04.Number100-200.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\obj\Debug\netcoreapp3.1\04.Number100-200.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\obj\Debug\netcoreapp3.1\04.Number100-200.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\obj\Debug\netcoreapp3.1\04.Number100-200.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\obj\Debug\netcoreapp3.1\04.Number100-200.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\obj\Debug\netcoreapp3.1\04.Number100-200.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\04.Number100-200\obj\Debug\netcoreapp3.1\04.Number100-200.genruntimeconfig.cache

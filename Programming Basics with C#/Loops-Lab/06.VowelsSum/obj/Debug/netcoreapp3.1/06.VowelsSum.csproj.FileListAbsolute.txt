@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.genruntimeconfig.cache

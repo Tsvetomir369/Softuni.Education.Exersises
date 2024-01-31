@@ -1,0 +1,13 @@
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.exe
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.deps.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.runtimeconfig.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.runtimeconfig.dev.json
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.dll
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.pdb
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.csprojAssemblyReference.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.AssemblyInfo.cs
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.dll
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.pdb
+C:\Users\Stanimir Yakimov\source\repos\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.genruntimeconfig.cache

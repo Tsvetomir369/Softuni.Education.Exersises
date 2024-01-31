@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.genruntimeconfig.cache

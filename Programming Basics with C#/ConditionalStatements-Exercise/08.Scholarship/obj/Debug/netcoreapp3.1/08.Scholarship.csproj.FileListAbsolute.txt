@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Exercise\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.genruntimeconfig.cache

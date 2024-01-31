@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\bin\Debug\netcoreapp3.1\04.Grades.exe
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\bin\Debug\netcoreapp3.1\04.Grades.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\bin\Debug\netcoreapp3.1\04.Grades.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\bin\Debug\netcoreapp3.1\04.Grades.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\bin\Debug\netcoreapp3.1\04.Grades.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\bin\Debug\netcoreapp3.1\04.Grades.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\04.Grades\obj\Debug\netcoreapp3.1\04.Grades.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\bin\Debug\netcoreapp3.1\10.Clock-part2.exe
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\bin\Debug\netcoreapp3.1\10.Clock-part2.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\bin\Debug\netcoreapp3.1\10.Clock-part2.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\bin\Debug\netcoreapp3.1\10.Clock-part2.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\bin\Debug\netcoreapp3.1\10.Clock-part2.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\bin\Debug\netcoreapp3.1\10.Clock-part2.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\obj\Debug\netcoreapp3.1\10.Clock-part2.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\obj\Debug\netcoreapp3.1\10.Clock-part2.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\obj\Debug\netcoreapp3.1\10.Clock-part2.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\obj\Debug\netcoreapp3.1\10.Clock-part2.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\obj\Debug\netcoreapp3.1\10.Clock-part2.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\10.Clock-part2\obj\Debug\netcoreapp3.1\10.Clock-part2.genruntimeconfig.cache

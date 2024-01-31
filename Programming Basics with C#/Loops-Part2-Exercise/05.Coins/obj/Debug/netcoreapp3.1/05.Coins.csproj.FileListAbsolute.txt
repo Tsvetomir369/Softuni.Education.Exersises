@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Exercise\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.genruntimeconfig.cache

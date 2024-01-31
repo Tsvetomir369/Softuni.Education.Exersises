@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.exe
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.genruntimeconfig.cache

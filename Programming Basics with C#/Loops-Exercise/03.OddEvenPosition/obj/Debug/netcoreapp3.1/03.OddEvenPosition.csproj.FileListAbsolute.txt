@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\bin\Debug\netcoreapp3.1\03.OddEvenPosition.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\bin\Debug\netcoreapp3.1\03.OddEvenPosition.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\bin\Debug\netcoreapp3.1\03.OddEvenPosition.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\bin\Debug\netcoreapp3.1\03.OddEvenPosition.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\bin\Debug\netcoreapp3.1\03.OddEvenPosition.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\bin\Debug\netcoreapp3.1\03.OddEvenPosition.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Exercise\03.OddEvenPosition\obj\Debug\netcoreapp3.1\03.OddEvenPosition.genruntimeconfig.cache

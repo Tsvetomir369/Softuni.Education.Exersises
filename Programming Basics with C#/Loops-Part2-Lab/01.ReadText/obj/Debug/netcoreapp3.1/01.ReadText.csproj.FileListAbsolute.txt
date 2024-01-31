@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.genruntimeconfig.cache
+C:\Users\Tsvetomir Yonov\source\repos\Loops-Part2-Lab\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csprojAssemblyReference.cache

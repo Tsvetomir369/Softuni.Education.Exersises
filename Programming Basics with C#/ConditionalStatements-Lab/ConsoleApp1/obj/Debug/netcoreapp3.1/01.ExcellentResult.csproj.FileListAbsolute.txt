@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ExcellentResult.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ExcellentResult.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ExcellentResult.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatements-Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ExcellentResult.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.exe
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.dll
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.pdb
+C:\Users\Tsvetomir Yonov\source\repos\For-Loop-MoreExercises\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.genruntimeconfig.cache

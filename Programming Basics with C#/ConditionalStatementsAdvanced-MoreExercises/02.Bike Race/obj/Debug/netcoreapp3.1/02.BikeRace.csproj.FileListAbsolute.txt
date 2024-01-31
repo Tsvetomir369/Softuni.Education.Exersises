@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\bin\Debug\netcoreapp3.1\02.BikeRace.exe
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\bin\Debug\netcoreapp3.1\02.BikeRace.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\bin\Debug\netcoreapp3.1\02.BikeRace.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\bin\Debug\netcoreapp3.1\02.BikeRace.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\bin\Debug\netcoreapp3.1\02.BikeRace.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\bin\Debug\netcoreapp3.1\02.BikeRace.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.dll
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.pdb
+C:\Users\Tsvetomir Yonov\source\repos\ConditionalStatementsAdvanced-MoreExercises\02.Bike Race\obj\Debug\netcoreapp3.1\02.BikeRace.genruntimeconfig.cache

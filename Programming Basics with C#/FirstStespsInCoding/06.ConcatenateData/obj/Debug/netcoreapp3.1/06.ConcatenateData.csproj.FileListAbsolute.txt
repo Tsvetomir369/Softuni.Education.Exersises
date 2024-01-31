@@ -1,0 +1,12 @@
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.exe
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.dll
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.dll
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+C:\Users\Tsvetomir Yonov\source\repos\FirstStespsInCoding\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.genruntimeconfig.cache

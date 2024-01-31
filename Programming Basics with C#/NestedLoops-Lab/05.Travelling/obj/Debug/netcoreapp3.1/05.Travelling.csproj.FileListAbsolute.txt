@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.exe
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.dll
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.pdb
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.dll
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.pdb
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.genruntimeconfig.cache
+C:\Users\Tsvetomir Yonov\source\repos\NestedLoops-Lab\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FirstStespsInCoding/1.0.0": {
+        "runtime": {
+          "FirstStespsInCoding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstStespsInCoding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

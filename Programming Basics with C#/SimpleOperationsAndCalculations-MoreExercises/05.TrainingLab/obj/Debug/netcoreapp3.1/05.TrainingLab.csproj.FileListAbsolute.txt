@@ -1,0 +1,13 @@
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.exe
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.deps.json
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.runtimeconfig.json
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.runtimeconfig.dev.json
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.dll
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.pdb
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.csprojAssemblyReference.cache
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.AssemblyInfoInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.AssemblyInfo.cs
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.dll
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.pdb
+C:\Users\Tsvetomir Yonov\source\repos\SimpleOperationsAndCalculations-MoreExercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.genruntimeconfig.cache
